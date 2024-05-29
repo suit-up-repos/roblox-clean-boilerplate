@@ -1,0 +1,8 @@
+indent_type = "Tabs"
+indent_width = 4
+quote_style = "AutoPreferDouble"
+call_parenthesis = "Always"
+collapse_simple_statement = "Always"
+
+[sort_requires]
+enabled = false
